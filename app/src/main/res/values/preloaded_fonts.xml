@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/acme</item>
+        <item>@font/archivo_black</item>
+        <item>@font/baloo</item>
+        <item>@font/baloo2</item>
+        <item>@font/baloo3</item>
+        <item>@font/baloo4</item>
+    </array>
+</resources>
